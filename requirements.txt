@@ -1,5 +1,6 @@
-pytorch
+torch
 flask
 oauthlib
 numpy
 arrow
+gunicorn
