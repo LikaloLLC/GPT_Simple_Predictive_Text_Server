@@ -4,3 +4,4 @@ oauthlib
 numpy
 arrow
 gunicorn
+tqdm
